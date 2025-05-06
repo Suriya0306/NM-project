@@ -15,25 +15,25 @@ A Python-based tool that analyzes social media text, detects sentiments (Positiv
 ## Overview
 This project leverages VADER Sentiment Analysis to detect the emotional tone of text input from social media posts. It categorizes sentiments into Positive, Negative, and Neutral, while also identifying emotions such as:
 
-Joy 😊
-Sadness 😢
-Anger 😠
-Fear 😨
-Surprise
+- Joy 😊
+- Sadness 😢
+- Anger 😠
+- Fear 😨
+- urprise
 ## Features
-✅ Sentiment analysis using VADER 
-✅ Emotion classification with emoji mapping 
-✅ Text preprocessing to remove noise 
-✅ Pie charts for sentiment and emotion visualization 
-✅ CSV file storage for analysis
+- ✅ Sentiment analysis using VADER 
+- ✅ Emotion classification with emoji mapping 
+- ✅ Text preprocessing to remove noise 
+- ✅ Pie charts for sentiment and emotion visualization 
+- ✅ CSV file storage for analysis
 
 ## Technologies
-Python – Programming language
-VADER Sentiment Analysis – NLP-based sentiment detection
-Pandas – Data manipulation
-Matplotlib – Graphical visualization
-Regular Expressions (re) – Text cleaning
-Installation
+- Python – Programming language
+- VADER Sentiment Analysis – NLP-based sentiment detection
+- Pandas – Data manipulation
+- Matplotlib – Graphical visualization
+- Regular Expressions (re) – Text cleaning
+## Installation
 To install dependencies, run: "pip install pandas matplotlib vaderSentiment"
 
 ## Usage
