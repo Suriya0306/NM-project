@@ -34,15 +34,24 @@ This project leverages VADER Sentiment Analysis to detect the emotional tone of 
 - Matplotlib – Graphical visualization
 - Regular Expressions (re) – Text cleaning
 ## Installation
-To install dependencies, run: "pip install pandas matplotlib vaderSentiment"
+To install dependencies, run: 
+"pip install pandas matplotlib vaderSentiment"
 
 ## Usage
-Run the script and input social media texts for analysis: python sentiment_analyzer.py
+Run the script and input social media texts for analysis: 
+"python sentiment_analyzer.py"
 
 ## Example Output
-Sentiment Breakdown: Positive: 45.00% 😊 Negative: 30.00% 😠 Neutral: 25.00% 😐
+Sentiment Breakdown: 
+- Positive: 45.00% 😊
+- Negative: 30.00% 😠
+- Neutral: 25.00% 😐
 
-Emotional Breakdown: Joy: 50.00% 😊 Sadness: 20.00% 😢 Anger: 30.00% 😠 Visualization charts are displayed for sentiment and emotion distribution.
+Emotional Breakdown: 
+- Joy: 50.00% 😊
+- Sadness: 20.00% 😢
+- Anger: 30.00% 😠
+- Visualization pie charts are displayed for sentiment and emotion distribution.
 
 ## Contributions
 Feel free to fork and contribute to improve the accuracy or visualization.
